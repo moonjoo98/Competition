@@ -3,7 +3,7 @@
 ### TASK
 - 금융 빅데이터 플랫폼을 활용한 MZ세대 맞춤형 금융 서비스
 
-![image](https://user-images.githubusercontent.com/103553532/203473221-77e4ef85-daed-4e02-8c28-145fbc7d1495.png)
+![image](https://user-images.githubusercontent.com/103553532/209434277-8c9e0594-ca70-4589-b0a6-1939584041fc.png)
 
 ### FLOW
 - 팀원 각자 사전조사 및 아이디어 제안
